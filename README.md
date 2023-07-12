@@ -4,8 +4,9 @@
 ####   Author:   Nhi Nguyen
 ####   Date:     Feb 21, 2023
 ####   Purpose:  The purpose of this program is to write a JavaFX application that
-####             displays a button and a number; every time the button is pushed,
-####             change the number to a random value between 1 and 100.
+####             presents two buttons and a number (initially 50) to the user. When
+####             the increment button is push, increment the displayed value. 
+####             Likewise, decrement the value when the decrement button is pushed.
 ------------------------------------------------------------------------------
 ####   ChangeLog:
 ####   Who:      Nhi Nguyen            
